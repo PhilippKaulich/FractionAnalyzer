@@ -1,0 +1,6 @@
+*.log
+__pycache__/*
+.spyproject/*
+Various/Pictures.pptx
+temp/*
+*.bak
