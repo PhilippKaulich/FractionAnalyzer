@@ -1,6 +1,6 @@
 # PD Fraction Analyzer 
 
-**Summary**: The tool analyzes fractionated samples (bottom-up and top-down proteomics) analyzed by ProteomeDiscoverer. 
+**Summary**: The tool analyzes proteomic data from fractionated samples (bottom-up and top-down) with respect to the properties of the fractions . 
 
 **Input**: Exported PSMs from analysis by ProteomeDiscoverer.
 
